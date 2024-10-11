@@ -1,0 +1,33 @@
+img {
+  display: block;
+  margin: auto;
+}
+
+#para1{
+  font-family: Franklin Gothic Medium ;
+  color: floralwhite;
+  font-size:large;
+}
+
+#para2 {
+  font-family: sans-serif;
+  color: floralwhite;
+}
+
+#para3 {
+  font-family: New Roman;
+  color: floralwhite;
+  font-size: small;
+  text-align: center;
+}
+
+#para4 {
+  font-style: italic;
+  font-style: bold;
+  color: yellow;
+  text-decoration: none;
+}
+
+body{
+  background-color: black;
+}
